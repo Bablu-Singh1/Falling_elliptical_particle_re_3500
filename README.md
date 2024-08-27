@@ -1,2 +1,2 @@
-# falling_elliptical_particle
+# Falling_elliptical_particle
 OpenFOAM sdfibm simulation
